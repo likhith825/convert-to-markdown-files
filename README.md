@@ -36,27 +36,3 @@ capabilities of the `MarkItDown` library.
 
 ---
 
-# Download
-
-There are two ways to download the project.
-
-## Option 1: Download from GitHub
-
-Open the project repository:
-
-https://github.com/likhith825/convert-to-markdown-files
-
-On the GitHub page:
-
-1. Click the green **Code** button.
-2. Click **Download ZIP**.
-3. Extract the downloaded ZIP file.
-4. Open the extracted project folder.
-
-You should see:
-
-```text
-convert-to-markdown-files/
-│
-├── batch.py
-└── README.md
